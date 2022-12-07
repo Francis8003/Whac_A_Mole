@@ -1,0 +1,10 @@
+**/Library/
+**/Temp/
+**/UserSetting/
+**/Logs
+**/obj
+*.meta
+**/UserSetting
+.vsconfig
+Assembly-CSharp.csproj
+Whac-A-Mole.sln
